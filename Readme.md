@@ -40,15 +40,29 @@ File `config.json` menyimpan konfigurasi yang diperlukan untuk skrip. Berikut ad
 **includeExternalJobs**: Sertakan pekerjaan dari luar.
 - **Opsi**: `true`, `false`
 
+## Instalasi
+```bash
+git clone https://github.com/cloxt01/glints_copilot.git
+```
+
+## Cara Menjalankan
+
+```bash
+cd glints_copilot/submodules/run
+py run.py
+```
+
 ## Cara Menggunakan
 
 1. **Instalasi**: Pastikan Playwright dan dependensi terkait terinstal.
 2. **Konfigurasi**: Sesuaikan nilai dalam file `config.json` sesuai kebutuhan Anda.
 3. **Jalankan Skrip**: Eksekusi skrip Python untuk memulai pencarian pekerjaan dan aplikasi.
 
+
 ## Penting
 
 - **Periksa Format Cookies dan Konfigurasi: Pastikan format data dalam cookie.json dan config.json sesuai dengan yang diharapkan. Kesalahan dalam penulisan atau nilai yang tidak valid dapat menyebabkan kegagalan dalam permintaan API atau hasil yang tidak diinginkan.**
 - **Perbarui Token jika Diperlukan: Jika API memerlukan token atau header khusus, pastikan untuk memperbarui skrip dengan informasi yang relevan.**
 
-**!** **Kesalahan dalam penulisan opsi dapat menyebabkan kesalahan dalam permintaan API dan hasil yang tidak diinginkan** **!**
+**!** **Kesalahan dalam penulisan opsi dapat menyebabkan kesalahan dalam permintaan API dan hasil yang tidak diinginkan**
+
