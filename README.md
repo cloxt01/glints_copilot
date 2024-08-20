@@ -1,1 +1,0 @@
-# glints_copilot
