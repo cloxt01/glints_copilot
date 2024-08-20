@@ -1,0 +1,25 @@
+{
+    "graphql_variables": {
+        "data": {
+            "SearchTerm": "IT",
+            "CountryCode": "ID",
+            "sortBy": "LATEST",
+            "lastUpdatedAtRange": "ANY_TIME",
+            "educationLevels": ["HIGH_SCHOOL"],
+            "includeExternalJobs": true,
+            "searchVariant": "CURRENT",
+            "limit": 30,
+            "offset": 0
+        }
+    },
+    "application_payload": {
+        "data": {
+            "resume": "ded5d424057aa3ab68ee3ccf48f3ae75.pdf",
+            "employerScreeningQuestionAnswers": [],
+            "note": "",
+            "attachments": []
+        },
+        "source": "Explore",
+        "traceInfo": ""
+    }
+}

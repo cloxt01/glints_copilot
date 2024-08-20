@@ -1,0 +1,21 @@
+{
+	"Kuki permintaan": {
+		"_fbp": "fb.1.1723527014361.319342550594102932",
+		"_ga": "GA1.1.2046516046.1723527011",
+		"_ga_FQ75P4PXDH": "GS1.1.1724131095.3.1.1724131657.53.0.0",
+		"_gcl_au": "1.1.1878946102.1723527011",
+		"_tgidts": "eyJzaCI6ImQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0MjdlIiwiY2kiOiI3MzFhODkyOS03NTUxLTU5NzItYjI1Yi0yOTFlOGE3YTg1NWMiLCJzaSI6ImQxMDIzNjU0LTQyOWMtNWE5NC04YTI3LWI5MDEwZWMzOTQ0OCJ9",
+		"_tglksd": "eyJzIjoiZDEwMjM2NTQtNDI5Yy01YTk0LThhMjctYjkwMTBlYzM5NDQ4Iiwic3QiOjE3MjQxMzEwOTQ5NzIsInNvZCI6IihkaXJlY3QpIiwic29kdCI6MTcyMzUyNzAxMTk0OCwic29kcyI6ImMiLCJzb2RzdCI6MTcyNDEzMTEwMzY0OX0=",
+		"_tgpc": "e15520ee-f8e0-569a-b412-cc68d5aa52e5",
+		"_tgsid": "eyJscGQiOiJ7XCJscHVcIjpcImh0dHBzOi8vZ2xpbnRzLmNvbSUyRmlkXCIsXCJscHRcIjpcIkdsaW50cyUzQSUyMFNpdHVzJTIwTG93b25nYW4lMjBLZXJqYSUyMFRlcmJhaWslMjBkaSUyMEluZG9uZXNpYVwiLFwibHByXCI6XCJcIn0iLCJwcyI6ImE3YmE5YmI0LWJlNWEtNDUxZi1iMWMzLTk1ZTRlMTc3NDU0NSIsInB2YyI6IjUiLCJzYyI6ImQxMDIzNjU0LTQyOWMtNWE5NC04YTI3LWI5MDEwZWMzOTQ0ODotMSIsImVjIjoiMTMiLCJwdiI6IjEiLCJ0aW0iOiJkMTAyMzY1NC00MjljLTVhOTQtOGEyNy1iOTAxMGVjMzk0NDg6MTcyNDEzMTA5ODc2NzotMSJ9",
+		"_tguatd": "eyJzYyI6IihkaXJlY3QpIn0=",
+		"_tt_enable_cookie": "1",
+		"_ttp": "xat6wvyGUJnm6iO2UPggGCzBiob",
+		"amplitude_id_26bdf4b56b304d7bfc6275ea77f2310cglints.com": "eyJkZXZpY2VJZCI6IjdmMDk5NDRiLTAxMGMtNDljOS1iNGZhLWZhYWIzNWIxMDNiNVIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTcyNDEzMTA5NTg4MywibGFzdEV2ZW50VGltZSI6MTcyNDEzMTY1NDIwMSwiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MTgsInNlcXVlbmNlTnVtYmVyIjoxOH0=",
+		"builderSessionId": "6200fc344a574c1583aecf55c3a1c8a3",
+		"g_state": "{\"i_l\":0}",
+		"sensorsdata2015jssdkcross": "{\"distinct_id\":\"57cdb1bf-7495-4c03-82c4-74fa1baefa6f\",\"first_id\":\"1914a371c6a566-06d2c513087f8b4-e5c5629-2073600-1914a371c6b2bc\",\"props\":{\"$latest_traffic_source_type\":\"ç´æ¥æµé\",\"$latest_search_keyword\":\"æªåå°å¼_ç´æ¥æå¼\",\"$latest_referrer\":\"\"},\"identities\":\"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTkxNGEzNzFjNmE1NjYtMDZkMmM1MTMwODdmOGI0LWU1YzU2MjktMjA3MzYwMC0xOTE0YTM3MWM2YjJiYyIsIiRpZGVudGl0eV9sb2dpbl9pZCI6IjU3Y2RiMWJmLTc0OTUtNGMwMy04MmM0LTc0ZmExYmFlZmE2ZiIsIiRpZGVudGl0eV9lbWFpbCI6ImZlcmRpLmNsb3h0MDBAZ21haWwuY29tIn0=\",\"history_login_id\":{\"name\":\"$identity_login_id\",\"value\":\"57cdb1bf-7495-4c03-82c4-74fa1baefa6f\"},\"$device_id\":\"1914a371c6a566-06d2c513087f8b4-e5c5629-2073600-1914a371c6b2bc\"}",
+		"session": "Fe26.2**0df6c82c38dbdd1a677a3a4954fcb4bedd1166fe028d7969948f996aaaecd26e*Bpd3HxXO8kEGGX-8IYXuNA*dFWbHR6kbjGfWQBVm7eSzcxwIelBY25_VpldoJT3u_404Fa-JkXbLF2dE8VrRegY**46d4f9fe55d4afdf0142076519d98e536f4e657167a00267d4bf5af83990e060*mugamaGnh6ob1cKNdjB-Na45BGL6S0cdU05J5GbsTBQ",
+		"traceInfo": "{\"expInfo\":\"mgtDstExperimentRecmdApplication:w10_0315,mgtDstExperimentRecmdConversionRate:base_0812\",\"requestId\":\"83773cc41555c51a31a37ed505cfecea\"}"
+	}
+}
