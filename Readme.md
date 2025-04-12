@@ -48,7 +48,6 @@ git clone https://github.com/cloxt01/glints_copilot.git
 ## Cara Menjalankan
 
 ```bash
-cd glints_copilot/submodules/run
 py run.py
 ```
 
